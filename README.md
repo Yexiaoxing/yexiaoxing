@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is Xiaoxing from China. 
+
+🔭 I’m currently working on Microsoft Forms, feel free to contact if you have any suggestions (or looking for referral 🌱).
+📫 How to reach me: xiaoxing at Telegram;
+
 <!--
 **Yexiaoxing/yexiaoxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
